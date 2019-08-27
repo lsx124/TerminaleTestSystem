@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.829",
-      "download-url": "https://github.com/lsx124/TerminaleTestSystem/blob/master/download/windows/SimulateStation.exe",
+      "download-url": "https://raw.githubusercontent.com/lsx124/TerminaleTestSystem/master/download/windows/SimulateStation.exe",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true
     },
